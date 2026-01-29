@@ -1,10 +1,11 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <p align="left">
-My name is <b>**Harshit Settipalli**</b> and I'm a <b>VLSI & Embedded Systems enthusiast</b>, from <b>India 🇮🇳</b> (currently working in Malaysia 🇲🇾).
+My name is <b>Harshit Settipalli</b> and I'm a <b>VLSI & Embedded Systems Enthusiast</b>,<br>
+working with <b>FPGA, Verilog HDL, and Embedded Development</b>.<br>
+Based in <b>India 🇮🇳</b> | Currently in <b>Malaysia 🇲🇾</b>.
 </p>
+
 
 ---
 
