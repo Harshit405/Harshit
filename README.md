@@ -24,9 +24,6 @@ My name is <b>Harshit Settipalli</b> and I'm a <b>VLSI & Embedded Systems enthus
 <h2 align="left">I code with</h2>
 
 ###
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -69,10 +66,17 @@ My name is <b>Harshit Settipalli</b> and I'm a <b>VLSI & Embedded Systems enthus
 
   <br><br>
 
-  <!-- Engineering & Simulation Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="matlab logo" />
+  <h3 align="left">Engineering & Simulation Tools</h3>
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Proteus_Design_Suite_Logo.png" height="40" alt="proteus logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Proteus_Design_Suite_Logo.png" height="40" alt="Proteus Design Suite" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Cisco_Packet_Tracer_Icon.png" height="40" alt="cisco packet tracer logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Cisco_Packet_Tracer_Icon.png" height="40" alt="Cisco Packet Tracer" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Intel_Quartus_Prime_Logo.png" height="40" alt="Intel Quartus Prime" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="40" alt="Arduino IDE" />
 </div>
+
