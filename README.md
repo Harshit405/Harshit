@@ -3,32 +3,8 @@
 ###
 
 <p align="left">
-My name is <b>Harshit Settipalli</b> and I'm a <b>VLSI & Embedded Systems enthusiast</b>, from <b>India 🇮🇳</b> (currently working in Malaysia 🇲🇾).
+My name is <b>**Harshit Settipalli**</b> and I'm a <b>VLSI & Embedded Systems enthusiast</b>, from <b>India 🇮🇳</b> (currently working in Malaysia 🇲🇾).
 </p>
-
----
-
-<h2 align="left">🔗 Connect with me</h2>
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/YOUR_LINK_HERE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32" alt="X"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- Portfolio (colored globe) -->
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" height="32" alt="Portfolio"/>
-  </a>
-</p>
-
 
 ---
 
@@ -87,6 +63,26 @@ My name is <b>Harshit Settipalli</b> and I'm a <b>VLSI & Embedded Systems enthus
 </div>
 
 ---
+<h2 align="left">🔗 Connect with me</h2>
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/harshit-settipalli-073356267" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- X (Twitter) -->
+<a href="https://x.com/YOUR_LINK_HERE" target="_blank">
+  <img src="https://img.icons8.com/color/48/twitterx--v1.png" height="32" alt="X"/>
+</a>
+
+
+  <!-- Portfolio (colored globe) -->
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" height="32" alt="Portfolio"/>
+  </a>
+</p>
 
 <p align="center">
 ⭐ Thanks for visiting my GitHub 
